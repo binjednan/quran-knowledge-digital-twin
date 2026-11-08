@@ -1,0 +1,440 @@
+{
+  "date": "2026-11-08",
+  "scope": "أمثلة مرئية ومنتجات عاملة وأشكال منشورة يُستشهد بها لأنماط العرض والتفاعل. حقل borrowed يصف عنصر الاقتباس أو التكييف المقصود. تأكيد ظهوره في الملف يحتاج معاينة النسخة وفحصها.",
+  "evidenceBoundary": "بيانات الآيات والاستقراء من الملف المرفق. المراجع الخارجية خاصة بواجهة العرض. إثبات وجود النمط في المثال منفصل عن إثبات صلاحيته لمستخدمي هذا الملف. سجل دراسات وتجارب المستخدمين منفصل.",
+  "examples": [
+    {
+      "id": "quran-home",
+      "title": "Quran.com بالعربية · الصفحة الرئيسية",
+      "url": "https://quran.com/ar",
+      "example": "مدخل عربي يعرض البحث وبدء القراءة وقائمة السور وآية مميزة في مسارات مستقلة.",
+      "borrowed": "ترتيب النظرة العامة حول بدء مهمة قراءة أو بحث، مع آية نموذجية تقود إلى سياقها.",
+      "scope": "النظرة العامة والمداخل إلى القراءة والبحث.",
+      "limit": "نمط توزيع الوظائف فقط. الآية المعروضة هنا ووجهات الاستكشاف من الملف."
+    },
+    {
+      "id": "books-mac-library",
+      "title": "Apple Books على الماك · مجموعات المكتبة",
+      "url": "https://support.apple.com/guide/books/ibks33867842/mac",
+      "example": "مكتبة تطبيق الكتب تجمع المحتوى في وجهات معنونة داخل شريط جانبي، وتفتح المجموعة المحددة في مساحة المحتوى.",
+      "borrowed": "قائمة جانبية ثابتة ومجمّعة بحسب المهمة على الشاشات الواسعة، مع إظهار الوجهة النشطة وعكس الترتيب للعربية.",
+      "scope": "هيكل التنقل على الشاشات الواسعة.",
+      "limit": "مجموعات الملف مبنية على وظائفه. المثال لتطبيق أصلي والتطبيق هنا صفحة ويب."
+    },
+    {
+      "id": "files-iphone-navigation",
+      "title": "Apple Files على الآيفون · شريط الوجهات السفلي",
+      "url": "https://support.apple.com/en-gb/guide/iphone/iphe9d46e90f/ios",
+      "example": "المتصفح في تطبيق الملفات يُبقي الوجهات الرئيسية المسمّاة مثل التصفح والملفات الحديثة ظاهرة في أسفل الشاشة.",
+      "borrowed": "إبقاء وجهات الملف الأساسية ظاهرة بتسمياتها على الهاتف، وإتاحة الأقسام الباقية في القائمة الكاملة.",
+      "scope": "شريط التنقل السريع على الهاتف.",
+      "limit": "تختلف الوجهات عن تطبيق الملفات لتوافق القراءة والأعلام والدراسات."
+    },
+    {
+      "id": "spotlight-results",
+      "title": "Apple Spotlight على الماك · البحث والنتائج",
+      "url": "https://support.apple.com/guide/mac-help/find-what-you-need-with-spotlight-mchlp1008/mac",
+      "example": "نافذة Spotlight تضع البحث في حقل واحد وتعرض النتائج والإجراء المتاح، مع الفتح بزر الإدخال.",
+      "borrowed": "بحث شامل في نافذة واحدة، نتائج تحمل نوعها، ودعم التنقل بلوحة المفاتيح وفتح النتيجة دون تغيير نصها.",
+      "scope": "البحث العام ومقابض لوحة المفاتيح.",
+      "limit": "البحث محلي في الملف. لا تُستدعى خدمات Spotlight أو معاجمه."
+    },
+    {
+      "id": "books-iphone-reader",
+      "title": "Apple Books على الآيفون · مظهر القراءة",
+      "url": "https://support.apple.com/en-euro/guide/iphone/iphc1af7c57/27/ios/27",
+      "example": "صور وضع القراءة وقائمة إعدادات حجم الخط والخلفية وتباعد النص.",
+      "borrowed": "فصل مساحة القراءة عن أدوات العرض، وإتاحة تغيير حجم الآية والمظهر مع الحفاظ على موضع القراءة.",
+      "scope": "متن القراءة وإعدادات النص والمظهر.",
+      "limit": "درجات الخلفية والخيارات المتاحة في الملف تكييف ويب، وليست لوحة ألوان Apple Books بحذافيرها."
+    },
+    {
+      "id": "quran-ayah-context",
+      "title": "Quran.com · اقرأ الآية في سياقها",
+      "url": "https://quran.com/product-updates/read-in-context-on-the-ayah-page",
+      "example": "أمثلة مصورة تعرض الآيات المحيطة في قسم مستقل، وتبرز الآية المحددة وتفتح السورة من موضع المقطع.",
+      "borrowed": "نافذة شاهد تبرز الآية داخل المقطع المحيط وتصل إلى موضعها في القراءة، مع الرجوع إلى مجموعة الشواهد.",
+      "scope": "السور والسياقات ونافذة شاهد الآية.",
+      "limit": "حدود السياق وعزو الأرقام من الملف. لا يستورد التصميم تفسيرًا أو ترجمة أو نصًا من المثال."
+    },
+    {
+      "id": "quran-study-mode",
+      "title": "Quran.com · وضع الدراسة",
+      "url": "https://quran.com/en/product-updates/new-study-mode-on-quran-com",
+      "example": "واجهة دراسة تُفتح من رقم الآية وتجمع مواد الاستكشاف المتصلة بها في مساحة مجاورة.",
+      "borrowed": "إبقاء الشاهد محددًا أثناء فتح ما يرتبط به، مع فصل النص عن طبقات القراءة والتحليل.",
+      "scope": "القراءة والدراسات المقارنة.",
+      "limit": "تعتمد هذه الواجهة تحليل الملف وحده. أقسام التفسير والترجمة في الموقع ليست جزءًا من الاقتباس."
+    },
+    {
+      "id": "sketch-engine-concordance",
+      "title": "Sketch Engine · Concordance",
+      "url": "https://www.sketchengine.eu/guide/concordance-a-tool-to-search-a-corpus/",
+      "example": "دليل الأداة يعرض البحث بصور الكلمات، وسطور المطابقة والسياق، وفتح السياق الأكبر من نتيجة البحث.",
+      "borrowed": "إظهار نطاق المطابقة ومفتاح البحث، وإبراز صورة اللفظ الأصلية، وتمكين فتح المرجع والسياق من قائمة المواضع.",
+      "scope": "فهرس الألفاظ والدراسات المقارنة وشواهد المطابقة.",
+      "limit": "هذا الملف يستخدم مفاتيحه المعلنة دون تحليلات صرفية أو وسم لغوي مستورد."
+    },
+    {
+      "id": "vega-labeled-bars",
+      "title": "Vega-Lite · أشرطة أفقية بقيم ظاهرة",
+      "url": "https://vega.github.io/vega-lite/examples/layer_bar_labels.html",
+      "example": "مثال تفاعلي لأشرطة أفقية تبدأ من الصفر، مع أرقام ظاهرة إلى جوار نهاياتها.",
+      "borrowed": "أشرطة المقارنة الكمية وترميز العدد بطول الشريط وبقيمة مكتوبة. تُحاذى الأشرطة لاتجاه العربية وتُرتب بحسب المهمة.",
+      "scope": "مقارنة أوزان الأعلام، مقاييس التلازم، توزيع أنواع الإسناد.",
+      "limit": "أوزان الملف من عدِّ شواهده، وتُحفظ دلالة مقياس كل رسم بحسب وحدته."
+    },
+    {
+      "id": "bostock-miserables-matrix",
+      "title": "Mike Bostock · Les Misérables Co-occurrence",
+      "url": "https://bost.ocks.org/mike/miserables/",
+      "example": "مصفوفة فعلية تُظهر شخصيتين في صف وعمود وتستخدم قوة التلوين لإظهار تكرار اجتماعهما في فصول الكتاب.",
+      "borrowed": "عرض زوج الأعلام في تقاطع الصف والعمود، وفتح شواهد الزوج من الخلية. القراءة الكثيفة ممكنة دون خطوط متقاطعة.",
+      "scope": "مصفوفة الأعلام ومصفوفات التداخل الزوجي.",
+      "limit": "وحدة العد في الملف الآية. بيانات الرواية وعناقيدها وطريقة ترتيبها تخص المثال."
+    },
+    {
+      "id": "vega-labeled-heatmap",
+      "title": "Vega-Lite · أرقام فوق خلايا خريطة الحرارة",
+      "url": "https://vega.github.io/vega-lite/examples/layer_text_heatmap.html",
+      "example": "مثال حي يضع قيمة مكتوبة فوق اللون المتدرج في كل خلية.",
+      "borrowed": "ترميز التكرار أو التشابه بدرجات متسلسلة، مع قيمة أو وسم قابل للقراءة وفصل خلايا القطر عند اختلاف دلالتها.",
+      "scope": "كثافة المواضع وخريطة تشابه السور ومصفوفة العدسات.",
+      "limit": "يعرض كل رسم مقدارًا مختلفًا. أسماء السور والمعاملات والحدود تُقرأ من مفتاح الرسم وبيانات الملف."
+    },
+    {
+      "id": "carbon-color-examples",
+      "title": "IBM Carbon · عينات لوحات ألوان البيانات",
+      "url": "https://www.carbondesignsystem.com/building-blocks/data-visualization/color-palettes",
+      "example": "لوحات مرئية محددة القيم تعرض مجموعات فئوية ودرجات كمية، مع أمثلة فاتحة وداكنة.",
+      "borrowed": "ألوان منفصلة للفئات مع شكل أو نص مميز، ومقياس أحادي متسلسل للمقادير. لون الاختيار منفصل عن دلالة البيانات.",
+      "scope": "ألوان الشبكات والأشرطة والمصفوفات.",
+      "limit": "تخص أدوار ألوان الرسوم. ربط درجة بعلامة في الملف وعلاج التباين يحتاجان ضبطًا محليًا."
+    },
+    {
+      "id": "ehlers-layered-ego",
+      "title": "Ehlers وزملاؤه · رسم الجوار الطبقي في الشكل ٣ج",
+      "url": "https://www.cg.tuwien.ac.at/research/publications/2024/ehlers-2024-mmm/ehlers-2024-mmm-paper.pdf",
+      "example": "مقارنة نماذج منشورة لشبكات الجوار، وفي الشكل ٣ج ترتيب العقد على طبقات بحسب بعدها عن العقدة المختارة.",
+      "borrowed": "فصل الاسم المرجعي عن أسماء الجوار المباشر في رسم طبقي، وتقوية قراءة الوزن بإظهار العدد بجوار الوصلة.",
+      "scope": "خريطة جوار اسم واحد.",
+      "limit": "المثال يستخدم مستويات متعددة في بيانات أخرى. هنا مستوى جوار مباشر، والعدد هو عدد الآيات، ولا يعني اتجاه العرض اتجاه العلاقة."
+    },
+    {
+      "id": "gephi-quickstart-network",
+      "title": "Gephi · شبكة العينة في دليل البدء",
+      "url": "https://gephi.org/quickstart/",
+      "example": "دليل مصوّر يبني خريطة شبكة عينة باستخدام توزيع قوى، ويضبط بروز العقد وكثافة التسميات ويظهر المفتاح.",
+      "borrowed": "توزيع النظرة العامة بحسب الوصلات المرصودة، وتخفيف تراكب التسميات وتوفير التركيز عند اختيار اسم.",
+      "scope": "خريطة الأعلام الكاملة وشبكة تلازم الألفاظ.",
+      "limit": "قواعد توزيع الملف تكييف مستقل. المسافات والمكونات البصرية لا تثبت عناقيد دلالية أو أهمية قيمية."
+    },
+    {
+      "id": "graphviz-clusters",
+      "title": "Graphviz · Clusters",
+      "url": "https://graphviz.org/Gallery/directed/cluster.html",
+      "example": "مثال يعزل مجموعات من العقد والوصلات في مساحات مستطيلة منفصلة تحمل عناوينها.",
+      "borrowed": "فصل شبكات المقاطع المستقلة في ألواح موسومة بمرجع المقطع، وإبقاء كل وصلة في سياقها.",
+      "scope": "شبكة العلاقات الدلالية عند العرض بحسب المقطع.",
+      "limit": "في مثال Graphviz توجد وصلات بين بعض المجموعات. حدود المقاطع هنا نصية وتحددها سجلات الملف وحدها."
+    },
+    {
+      "id": "bloom-card-list",
+      "title": "Neo4j Bloom · قائمة البطاقات في المشهد",
+      "url": "https://neo4j.com/docs/bloom-user-guide/current/bloom-visual-tour/card-list/",
+      "example": "يعرض Bloom الرسم مع قائمة بطاقات لعناصر المشهد، وتوفر البطاقة خصائص العنصر دون حجب شبكة العلاقات.",
+      "borrowed": "لوحة تفاصيل مرتبطة بالمشهد تُظهر العدد أو النوع والمرجع، وتؤدي إلى الشاهد عند اختيار الوصلة أو السجل.",
+      "scope": "لوحات التفاصيل ومفتاح الخريطة وسجل العلاقات.",
+      "limit": "خصائص Bloom ومخزنه واتصاله بخادم ليست جزءًا من الملف المحلي."
+    },
+    {
+      "id": "d3-collapsible-tree",
+      "title": "D3 · Collapsible Tree",
+      "url": "https://observablehq.com/@d3/collapsible-tree",
+      "example": "شجرة فعلية تقرأ من أصل إلى فروع مرتبة، وتُظهر تفاصيل الفرع عند توسيعه.",
+      "borrowed": "عرض المكونات على تفرعات مفهومة من العدسة المختارة، مع إبراز اسم كل مكوّن قبل التفاصيل.",
+      "scope": "هرمية المنظومات والمكونات وخريطة الاعتماد.",
+      "limit": "التفرعات تنظيم للعرض ولا تنشئ دعوى تبعية بين المفاهيم."
+    },
+    {
+      "id": "d3-sankey",
+      "title": "D3 · Sankey Diagram",
+      "url": "https://observablehq.com/@d3/sankey",
+      "example": "مخطط تفاعلي يضع طرفي التوزيع في أعمدة ويُظهر المقدار في عرض كل شريط رابط.",
+      "borrowed": "ترميز توزع المواضع على السور بعرض الوصلة وإظهار مجموع المواضع وعدد كل فرع.",
+      "scope": "مخطط توزع مطابقات البحث في مقارنات الإصدار الأول.",
+      "limit": "التوزع هنا عد للمواضع، وليس انتقالًا زمنيًا أو أثرًا سببيًا. توزيع أنواع الإسناد في المنظومات الحالي مرجعه الأشرطة الأفقية."
+    },
+    {
+      "id": "graphviz-labeled-edges",
+      "title": "Graphviz · Finite Automaton",
+      "url": "https://graphviz.org/Gallery/directed/fsm.html",
+      "example": "رسم أفقي فعلي تُقرأ فيه أطراف العلاقة مع اتجاه الوصلة وتسميتها.",
+      "borrowed": "إبراز طرفي الجسر وتصريح نص العلاقة والشاهد وحد اليقين في سجلها.",
+      "scope": "الجسور بين المنظومات وسجل العلاقات الموجّهة.",
+      "limit": "حالات المثال انتقالات حوسبية. علاقة الملف قراءة لشاهد، وتُصرح دلالة سهمها في الواجهة."
+    },
+    {
+      "id": "hypothesis-annotation-card",
+      "title": "Hypothesis · بطاقة التعليق المثبت إلى النص",
+      "url": "https://web.hypothes.is/help/annotation-basics/",
+      "example": "صور تطبيق تفصل النص المحدد عن تعليق القارئ، وتُظهر بطاقة مستقلة مع طريق إلى الأصل.",
+      "borrowed": "إظهار الادعاء أو الملاحظة مستقلة عن الشاهد، مع مرجع يفتح النص في موضعه.",
+      "scope": "سجل الدعاوى وبطاقات الشواهد وملاحظات البحث.",
+      "limit": "التصنيف والحفظ هنا محليان. ميزات المشاركة العامة والردود ليست جزءًا من الاقتباس."
+    },
+    {
+      "id": "quran-notes",
+      "title": "Quran.com · ملاحظات الآيات وتنزيلها",
+      "url": "https://quran.com/product-updates/notes-archive-restore-and-download-as-pdf",
+      "example": "صور لمساحة الملاحظات المستقلة مع الوصول إلى الملاحظات المرتبطة بآية وإجراء التنزيل.",
+      "borrowed": "فصل كتابة الملاحظة الشخصية عن المتن وإتاحة تنزيل السجل من مكان واضح.",
+      "scope": "دفتر البحث.",
+      "limit": "لا تُنقل الملاحظات خارج المتصفح تلقائيًا. لا يُنقل حساب الموقع أو نظام الاستعادة أو تنسيق تنزيله."
+    },
+    {
+      "id": "zenodo-file-record",
+      "title": "Zenodo · سجل مجموعة بيانات منشورة",
+      "url": "https://zenodo.org/records/15488821",
+      "example": "سجل إصدار فعلي يفصل هوية النسخة عن الملفات، ويظهر اسم الملف وحجمه وبصمته وإجراءات التصدير.",
+      "borrowed": "إظهار مصدر الملف ورقم النسخة وبصمتها وأدوات التصدير بجوار شرح المنهج وحدود القياس.",
+      "scope": "المنهج والمصادر وسجل الإصدار.",
+      "limit": "لا يستضيف Zenodo ملف المشروع. بصمة الملف هنا SHA-256 ومعناها التحقق من تطابق البايتات."
+    }
+  ],
+  "coverage": [
+    {
+      "surface": "هيكل التنقل على الماك والهاتف",
+      "exampleIds": [
+        "books-mac-library",
+        "files-iphone-navigation"
+      ]
+    },
+    {
+      "surface": "النظرة العامة",
+      "exampleIds": [
+        "quran-home",
+        "books-mac-library"
+      ]
+    },
+    {
+      "surface": "البحث العام",
+      "exampleIds": [
+        "spotlight-results"
+      ]
+    },
+    {
+      "surface": "قراءة النص والسور والسياقات",
+      "exampleIds": [
+        "books-iphone-reader",
+        "quran-ayah-context",
+        "quran-study-mode"
+      ]
+    },
+    {
+      "surface": "عرض الشاهد والعودة إلى موضعه",
+      "exampleIds": [
+        "quran-ayah-context",
+        "hypothesis-annotation-card",
+        "bloom-card-list"
+      ]
+    },
+    {
+      "surface": "الدراسات المقارنة",
+      "exampleIds": [
+        "sketch-engine-concordance",
+        "quran-study-mode"
+      ]
+    },
+    {
+      "surface": "فهرس الألفاظ ومقارنة المواضع",
+      "exampleIds": [
+        "sketch-engine-concordance",
+        "vega-labeled-bars",
+        "vega-labeled-heatmap"
+      ]
+    },
+    {
+      "surface": "خريطة جوار اسم واحد",
+      "exampleIds": [
+        "ehlers-layered-ego",
+        "bloom-card-list",
+        "carbon-color-examples"
+      ]
+    },
+    {
+      "surface": "خريطة الأعلام الكاملة",
+      "exampleIds": [
+        "gephi-quickstart-network",
+        "bloom-card-list",
+        "carbon-color-examples"
+      ]
+    },
+    {
+      "surface": "الأعلام في المقارنة والمصفوفة",
+      "exampleIds": [
+        "vega-labeled-bars",
+        "bostock-miserables-matrix"
+      ]
+    },
+    {
+      "surface": "العلاقات الدلالية وسجلها",
+      "exampleIds": [
+        "graphviz-clusters",
+        "bloom-card-list",
+        "graphviz-labeled-edges"
+      ]
+    },
+    {
+      "surface": "شبكة تلازم الألفاظ",
+      "exampleIds": [
+        "gephi-quickstart-network",
+        "bloom-card-list",
+        "vega-labeled-bars"
+      ]
+    },
+    {
+      "surface": "كثافة المواضع ومصفوفة تشابه السور",
+      "exampleIds": [
+        "vega-labeled-heatmap",
+        "bostock-miserables-matrix"
+      ]
+    },
+    {
+      "surface": "المنظومات وشجرة المكونات",
+      "exampleIds": [
+        "d3-collapsible-tree",
+        "hypothesis-annotation-card"
+      ]
+    },
+    {
+      "surface": "مصفوفة اشتراك العدسات وتوزيع أنواع الإسناد",
+      "exampleIds": [
+        "bostock-miserables-matrix",
+        "vega-labeled-bars",
+        "carbon-color-examples"
+      ]
+    },
+    {
+      "surface": "الجسور الدلالية بين المنظومات",
+      "exampleIds": [
+        "graphviz-labeled-edges",
+        "hypothesis-annotation-card"
+      ]
+    },
+    {
+      "surface": "دفتر البحث وسجل الدعاوى",
+      "exampleIds": [
+        "quran-notes",
+        "hypothesis-annotation-card"
+      ]
+    },
+    {
+      "surface": "المنهج والمصادر وسجل النسخة",
+      "exampleIds": [
+        "zenodo-file-record"
+      ]
+    },
+    {
+      "surface": "بوابات الإصدار الأول",
+      "exampleIds": [
+        "d3-collapsible-tree",
+        "sketch-engine-concordance",
+        "vega-labeled-heatmap"
+      ]
+    },
+    {
+      "surface": "مقارنات الإصدار الأول وتوزع المواضع",
+      "exampleIds": [
+        "bostock-miserables-matrix",
+        "d3-sankey",
+        "graphviz-labeled-edges"
+      ]
+    },
+    {
+      "surface": "سجل الإصدار الأول",
+      "exampleIds": [
+        "hypothesis-annotation-card",
+        "zenodo-file-record"
+      ]
+    }
+  ],
+  "routeExamples": {
+    "home": [
+      "quran-home",
+      "books-mac-library",
+      "spotlight-results",
+      "ehlers-layered-ego"
+    ],
+    "reading": [
+      "books-iphone-reader",
+      "quran-ayah-context",
+      "quran-study-mode"
+    ],
+    "names": [
+      "ehlers-layered-ego",
+      "gephi-quickstart-network",
+      "bloom-card-list",
+      "vega-labeled-bars",
+      "bostock-miserables-matrix",
+      "carbon-color-examples"
+    ],
+    "semantic": [
+      "graphviz-clusters",
+      "graphviz-labeled-edges",
+      "bloom-card-list",
+      "carbon-color-examples"
+    ],
+    "network": [
+      "gephi-quickstart-network",
+      "vega-labeled-bars",
+      "bloom-card-list"
+    ],
+    "studies": [
+      "sketch-engine-concordance",
+      "quran-study-mode",
+      "hypothesis-annotation-card"
+    ],
+    "word": [
+      "sketch-engine-concordance",
+      "vega-labeled-bars",
+      "vega-labeled-heatmap"
+    ],
+    "surahs": [
+      "quran-ayah-context",
+      "vega-labeled-heatmap",
+      "bostock-miserables-matrix"
+    ],
+    "model": [
+      "d3-collapsible-tree",
+      "bostock-miserables-matrix",
+      "vega-labeled-bars",
+      "graphviz-labeled-edges",
+      "hypothesis-annotation-card"
+    ],
+    "journal": [
+      "quran-notes",
+      "hypothesis-annotation-card"
+    ],
+    "method": [
+      "zenodo-file-record",
+      "books-mac-library",
+      "files-iphone-navigation",
+      "spotlight-results"
+    ],
+    "systems": [
+      "d3-collapsible-tree",
+      "sketch-engine-concordance",
+      "vega-labeled-heatmap"
+    ],
+    "relations": [
+      "bostock-miserables-matrix",
+      "d3-sankey",
+      "graphviz-labeled-edges"
+    ],
+    "claims": [
+      "hypothesis-annotation-card",
+      "zenodo-file-record"
+    ]
+  }
+}
