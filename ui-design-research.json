@@ -1,0 +1,282 @@
+{
+  "reviewedAt": "2026-11-08",
+  "scope": "تصميم تجربة الاستكشاف والقراءة ومراجعة الشواهد في التوأم المعرفي. استُخدمت المراجع الخارجية لاختيار طريقة العرض والتفاعل.",
+  "sources": [
+    {
+      "id": "tuch-complexity",
+      "kind": "دراسة مستخدمين",
+      "title": "Tuch et al. — The role of visual complexity and prototypicality regarding first impression of websites",
+      "url": "https://research.google/pubs/the-role-of-visual-complexity-and-prototypicality-regarding-first-impression-of-websites-working-towards-understanding-aesthetic-judgments/",
+      "finding": "في تجربتين لتقييم الانطباع البصري السريع، حصلت الشاشات الأقل ازدحامًا والأقرب إلى تنظيم المواقع المألوف على تقييمات جاذبية أعلى. تضمّنت التجربة الأولى 119 لقطة لمواقع فعلية.",
+      "limitation": "العدد المذكور للقطات. يقيس البحث انطباعًا أوليًا من صور قصيرة العرض، واستخدام الملف مهمة مختلفة."
+    },
+    {
+      "id": "nng-visible-navigation",
+      "kind": "دراسة مستخدمين",
+      "title": "Nielsen Norman Group — Hamburger Menus and Hidden Navigation Hurt UX Metrics",
+      "url": "https://www.nngroup.com/articles/hamburger-menus/",
+      "finding": "أكمل 179 مشاركًا مهام على ستة مواقع عبر الهاتف والحاسوب. أضعف إخفاء التنقل العثور على المحتوى وزاد زمن المهمة وصعوبتها المتصوّرة مقارنة بالتنقل المرئي أو المختلط.",
+      "limitation": "على الهاتف قارن الاختبار القائمة المخفية بالتنقل المختلط. لم يختبر التنقل المرئي بالكامل على الهاتف ولا هذا الملف."
+    },
+    {
+      "id": "salmeron-arabic-nav",
+      "kind": "دراسة مستخدمين",
+      "title": "Salmerón, Abu Mallouh & Kammerer — Location of navigation menus in websites",
+      "url": "https://www.researchgate.net/publication/283082803_Location_of_navigation_menus_in_websites_an_experimental_study_with_Arabic_users",
+      "finding": "قيّم 25 متحدثًا بالعربية لغةً أمًّا، ويتقنون الإنجليزية أيضًا، لقطات مواقع عُرضت لنصف ثانية. فضّلوا موضع القائمة على اليمين في اللقطات العربية من حيث الجاذبية وسهولة الاستخدام والثقة المتصوّرة.",
+      "limitation": "قيّم المشاركون لقطات ثابتة على الحاسوب. التفضيل يصف الانطباع لدى هذه العينة."
+    },
+    {
+      "id": "alebri-rtl-charts",
+      "kind": "مقابلات ممارسين وتحليل أدوات",
+      "title": "Alebri et al. — Designing Within the Lines",
+      "url": "https://arxiv.org/html/2607.24571v1",
+      "finding": "أظهرت مقابلات مع 11 ممارسًا عربيًا وتحليل سبع أدوات للرسم تباين دعم اتجاه الواجهة العربية والأرقام وتسميات الرسوم.",
+      "limitation": "مسودة بحث تستند إلى الممارسين والأدوات. اقتصر الاستخدام هنا على تحديد حالات RTL التي تحتاج فحصًا صريحًا."
+    },
+    {
+      "id": "okoe-network-tasks",
+      "kind": "دراسة مستخدمين",
+      "title": "Okoe, Jianu & Kobourov — Revisited Experimental Comparison of Node-Link and Matrix Representations",
+      "url": "https://arxiv.org/html/1709.00293",
+      "finding": "أُجريت 14 مهمة على شبكة واحدة من 256 عقدة و1090 وصلة. شارك 557 شخصًا عبر منصة عمل عن بعد، واستُبعدت 28 استجابة. ساعد رسم العُقد والوصلات في معظم مهام تتبع الاتصال والتذكّر. أفادت المصفوفة في بعض المقارنات المنتظمة وتقدير عدد العناقيد.",
+      "limitation": "تتعلق النتيجة بمهام وعينة وشبكة محددة. تتأثر الملاءمة بكثافة الشبكة والسؤال المطروح."
+    },
+    {
+      "id": "zong-accessible-exploration",
+      "kind": "دراسة مستخدمين",
+      "title": "Zong et al. — Rich Screen Reader Experiences for Accessible Data Visualization",
+      "url": "https://vis.csail.mit.edu/pubs/rich-screen-reader-vis-experiences/",
+      "finding": "في جلسات مع 13 مشاركًا من المكفوفين وضعاف البصر، أفاد المشاركون بأن الجداول مألوفة لكن قراءة صفوف كثيرة مرهقة. أتاح الانتقال المباشر بين الملخص والتفاصيل استكشافًا أكثر مرونة في النماذج التجريبية.",
+      "limitation": "بحث نوعي استكشافي. يدعم بنية المعلومات ولا يثبت توافق واجهة المشروع مع قارئ شاشة بعينه."
+    },
+    {
+      "id": "ravichandran-proximity",
+      "kind": "دراسة مستخدمين",
+      "title": "Ravichandran & Machniak — What Do We See First? Proximity-Compatible Dashboard Layout Improves Visual Search Efficiency",
+      "url": "https://journals.sagepub.com/doi/10.1177/10711813261484494",
+      "finding": "قارن 26 مشاركًا نسختين من لوحة خرائط في مهمة بحث واحدة. أدى جمع أدوات البحث ومفتاح الخريطة والنتيجة في مناطق متقاربة إلى زمن إنجاز أقصر، ووصف المشاركون تجميع العناصر بأنه أسهل في المتابعة.",
+      "limitation": "عينة صغيرة ومهمة خرائط واحدة. لم يكن فرق مقياس عبء العمل ذا دلالة إحصائية."
+    },
+    {
+      "id": "petroff-color-preferences",
+      "kind": "استطلاع تفضيلات بصري",
+      "title": "Petroff — Accessible Color Sequences for Data Visualization",
+      "url": "https://arxiv.org/html/2107.02270",
+      "finding": "جمع استطلاع طوعي نحو 22 ألف اختيار في نحو 2200 جلسة. اختلف المشاركون في تفضيلات الألوان. جمع المؤلف بيانات التفضيل مع مقاييس تمييز الألوان والإضاءة ومحاكاة أوجه قصور رؤية اللون.",
+      "limitation": "الجلسات قد تتكرر، والعينة متطوعة واستقطبت من مجتمعات تقنية. لم يقارن البحث لوحة الواجهة الحالية بغيرها."
+    },
+    {
+      "id": "apple-navigation",
+      "kind": "إرشادات تصميم رسمية",
+      "title": "Apple Human Interface Guidelines — Sidebars",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/sidebars",
+      "finding": "يدعم الشريط الجانبي تصفح الأقسام والمجموعات الهرمية على الشاشات التي تتسع له.",
+      "limitation": "إرشادات لتطبيقات Apple. تستلهمها واجهة الويب في ترتيب الأقسام."
+    },
+    {
+      "id": "apple-tab-bars",
+      "kind": "إرشادات تصميم رسمية",
+      "title": "Apple Human Interface Guidelines — Tab bars",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/tab-bars",
+      "finding": "تظهر الوجهات الأساسية بأسماء واضحة، ويستمر ظهور التنقل بينها عند تبديل القسم. تستخدم أدوات مستقلة لتنفيذ أوامر الصفحة.",
+      "limitation": "يخص المصدر أشرطة تنقل تطبيقات Apple. تستفيد الواجهة من وضوح التسميات وثبات الوجهات."
+    },
+    {
+      "id": "apple-rtl",
+      "kind": "إرشادات تصميم رسمية",
+      "title": "Apple Human Interface Guidelines — Right to left",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/right-to-left",
+      "finding": "تطابق المحاذاة والتحكم الاتجاهي طريقة قراءة العربية، ويحافظ الرقم أو المعرّف المختلط على ترتيب رموزه.",
+      "limitation": "تُكيّف الأيقونات عندما تعبّر عن اتجاه. يبقى للرموز العامة ترتيبها المعروف."
+    },
+    {
+      "id": "apple-type",
+      "kind": "إرشادات تصميم رسمية",
+      "title": "Apple Human Interface Guidelines — Typography",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/typography",
+      "finding": "يساعد تدرّج الحجم والوزن النصي على توضيح العناوين والمراتب. تُراعى قابلية القراءة وتكبير الخط.",
+      "limitation": "قيم الخط والمسافات الفعلية في ملف الويب خيارات تنفيذ لهذا المشروع."
+    },
+    {
+      "id": "apple-writing",
+      "kind": "إرشادات تصميم رسمية",
+      "title": "Apple Human Interface Guidelines — Writing",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/writing",
+      "finding": "تعبر تسميات الأوامر عن فعل أو وجهة واضحة بلغة مباشرة. تُبنى الرسائل حول ما يحتاج القارئ إلى معرفته في موضعه.",
+      "limitation": "الأسماء العربية المتخصصة في المحتوى تحتاج صياغة تراعي نطاق الاستدلال في هذا المشروع."
+    },
+    {
+      "id": "apple-color",
+      "kind": "إرشادات تصميم رسمية",
+      "title": "Apple Human Interface Guidelines — Color",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/color",
+      "finding": "يثبت معنى لون التفاعل بين الشاشات، ويُدعم بالحد أو النص. تُراجع الدرجات وتباينها على الخلفيات الفاتحة والداكنة.",
+      "limitation": "اختيار الأخضر المحدد ودرجات الورق تنفيذ للمشروع. المصدر يدعم ثبات الوظيفة والتباين."
+    },
+    {
+      "id": "apple-charts",
+      "kind": "إرشادات تصميم رسمية",
+      "title": "Apple Human Interface Guidelines — Charts",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/charts",
+      "finding": "يُختار الرسم بحسب السؤال، وتُبرَز البيانات بوحداتها وتسمياتها. تسهّل الأشرطة التي تبدأ من صفر مقارنة المقادير.",
+      "limitation": "تحتاج ملاءمة الشبكة والمصفوفة لكل مهمة إلى أدلة إضافية تخص تمثيل العلاقات."
+    },
+    {
+      "id": "apple-books",
+      "kind": "سابقة منتج موثقة",
+      "title": "Apple Support — Read books in the Books app on iPhone",
+      "url": "https://support.apple.com/en-lamr/guide/iphone/iphc1af7c57/ios",
+      "finding": "تُخصص مساحة هادئة لمتن القراءة، ويظل الانتقال إلى موضع بعينه والفهرس وخيارات مظهر الصفحة في أدوات منفصلة.",
+      "limitation": "مثال منتج على ترتيب القراءة. يصف التوثيق إمكانات التطبيق."
+    },
+    {
+      "id": "carbon-data-color",
+      "kind": "إرشادات نظام تصميم",
+      "title": "IBM Carbon — Color palettes",
+      "url": "https://www.carbondesignsystem.com/building-blocks/data-visualization/color-palettes",
+      "finding": "تُستخدم الدرجات الفئوية للأنواع المنفصلة، وتدرّج متسلسل للمقادير المرتبة. تدعم اختلافات الضوء والداكن اختلاف الخلفية.",
+      "limitation": "يُحفظ ترميز البيانات القائم في المشروع. هذا المصدر يوضح قاعدة التمييز بين النوع والمقدار."
+    },
+    {
+      "id": "wcag-color",
+      "kind": "معيار وصول للويب",
+      "title": "W3C WCAG — Use of Color",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html",
+      "finding": "يجب أن يبقى المعنى مقروءًا بوسيلة مثل النص أو الشكل أو النمط إلى جانب اللون.",
+      "limitation": "المعيار يحدد سلوكًا ينبغي التحقق منه. الاطلاع عليه مرحلة مستقلة عن قياس التباين وتدقيق الاستخدام."
+    },
+    {
+      "id": "app-store-quran-iphone",
+      "kind": "مراجعات مستخدمين",
+      "title": "App Store UK — Quran by Quran.com, iPhone reviews",
+      "url": "https://apps.apple.com/gb/app/quran-by-quran-com-%D9%82%D8%B1%D8%A2%D9%86/id1118663303?platform=iphone&see-all=reviews",
+      "finding": "وصف أحد المراجعين نصًا عربيًا ضيقًا وثقيل الوزن يصعب قراءته بعد تحديث. وذكر مراجع آخر أن محاولة لمس إيقاف التلاوة كانت تؤدي أحيانًا إلى الانتقال إلى آية مجاورة، واشتكى من توزيع الأزرار في الوضع الأفقي.",
+      "limitation": "تعليقات طوعية عن إصدارات وأجهزة مختلفة. توضح مشكلات محتملة في المقروئية واللمس، من دون تقدير مدى شيوعها."
+    },
+    {
+      "id": "app-store-quran-ipad",
+      "kind": "مراجعات مستخدمين",
+      "title": "App Store Singapore — Quran by Quran.com, iPad reviews",
+      "url": "https://apps.apple.com/sg/app/quran-by-quran-com-%D9%82%D8%B1%D8%A2%D9%86/id1118663303?platform=ipad&see-all=reviews",
+      "finding": "قدّر بعض المراجعين الوضع الداكن ومساحة القراءة، وطلب آخرون ضبط حجم العربية أو إعادة الحجم الأكبر بعد تراجعه في تحديث.",
+      "limitation": "تجارب طوعية حول تطبيق آخر. تفيد في تحديد أولوية خيارات القراءة، ولا تقيس تفضيلات جميع مستخدمي المشروع."
+    },
+    {
+      "id": "wcag-touch",
+      "kind": "معيار وصول للويب",
+      "title": "W3C WCAG — Target Size (Minimum)",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html",
+      "finding": "تقلّل مساحة اللمس الكافية أو التباعد بين الأهداف المجاورة احتمال فتح الأمر الخطأ. تذكر الوثيقة حدًا أدنى واستثناءات محددة، وهدفًا معزّزًا للأدوات المهمة.",
+      "limitation": "يُقاس امتثال الأهداف الفعلية في العرض النهائي، ويختلف معيار قياس CSS عن وحدات تطبيقات Apple."
+    }
+  ],
+  "decisions": [
+    {
+      "id": "task-routes",
+      "title": "وجهات ظاهرة بحسب المهمة",
+      "applied": "تبدأ الواجهة بأعمال واضحة مثل القراءة وتتبع الأسماء واستكشاف العلاقات. يظهر التنقل العربي في اليمين على الشاشة الواسعة، وتظهر الوجهات الأساسية بتسمياتها على الهاتف مع قائمة للأقسام الإضافية.",
+      "rationale": "يستطيع القارئ توقع محتوى الوجهة قبل فتحها والانتقال من الصفحة الحالية إلى وجهة أساسية دون البحث في قائمة.",
+      "sourceIds": [
+        "nng-visible-navigation",
+        "salmeron-arabic-nav",
+        "apple-navigation",
+        "apple-tab-bars",
+        "apple-rtl",
+        "apple-writing"
+      ]
+    },
+    {
+      "id": "shared-hierarchy",
+      "title": "مراتب نصية وأسطح متناسقة",
+      "applied": "تتكرر مراتب واضحة للعنوان والوصف والبيانات المساندة، مع أسطح هادئة تترك بروزًا للرسم والنص، وتنتقل البيانات الثانوية إلى مواضعها عند الحاجة.",
+      "rationale": "تفيد البنية المتكررة في معرفة أين يبدأ النظر بين الصفحات، ويساعد الاقتراب المكاني في قراءة الأدوات والبيانات المرتبطة.",
+      "sourceIds": [
+        "tuch-complexity",
+        "apple-type",
+        "apple-writing",
+        "ravichandran-proximity"
+      ]
+    },
+    {
+      "id": "paper-accent-data",
+      "title": "لون التفاعل ومعاني الرسوم",
+      "applied": "تستخدم الواجهة درجات ورقية خافتة ونصًا مقروءًا، مع أخضر متسق للأوامر والحالة النشطة. تبقى ألوان فئات البيانات وأشكالها ومقياس الشدة مرتبطة بمعانيها البحثية.",
+      "rationale": "تفصل الهوية البصرية عن ترميز البيانات. يقرأ القارئ الفئة والشدة من الشكل والعدد والتسمية حتى عند ضعف تمييز الألوان.",
+      "sourceIds": [
+        "apple-color",
+        "apple-books",
+        "carbon-data-color",
+        "wcag-color",
+        "petroff-color-preferences"
+      ]
+    },
+    {
+      "id": "purposeful-visualization",
+      "title": "عرض يلائم السؤال",
+      "applied": "تُعرض شبكة الجوار عند تتبع اسم، والأشرطة المرتبة عند مقارنة أعداد الآيات، والمصفوفة عند استعراض الأزواج. يفتح كل تمثيل الشواهد نفسها للزوج في النطاق المطبق.",
+      "rationale": "يساعد الرسم في تتبع الصلة. تتيح الأشرطة والمصفوفة قراءة المقادير أو البحث المنتظم، وتبقى الآيات مرجعًا مشتركًا.",
+      "sourceIds": [
+        "okoe-network-tasks",
+        "apple-charts",
+        "carbon-data-color",
+        "alebri-rtl-charts",
+        "zong-accessible-exploration"
+      ]
+    },
+    {
+      "id": "reading-and-evidence",
+      "title": "القراءة وسياق الشاهد",
+      "applied": "يظهر متن القراءة في مساحة واضحة. تُفصل أدوات الانتقال إلى السورة والآية عن المتن، ويقود اختيار العلاقة أو المرجع إلى الآيات والسياق من موضع الاختيار. يُعطى النص العربي تباعدًا ومساحة كافيين، وتبقى أزرار اللمس المجاورة مميزة. تتاح ثلاثة أحجام لحروف الآيات في القراءة، ويحفظ المتصفح الاختيار. يدعم الملف مظهرًا داكنًا.",
+      "rationale": "يجد القارئ صلة مباشرة بين النتيجة وشاهدها، ويستطيع البدء بملخص أو رقم مرجع ثم قراءة السياق عند الحاجة.",
+      "sourceIds": [
+        "apple-books",
+        "apple-type",
+        "apple-rtl",
+        "ravichandran-proximity",
+        "zong-accessible-exploration",
+        "app-store-quran-iphone",
+        "app-store-quran-ipad",
+        "wcag-touch"
+      ]
+    }
+  ],
+  "alternatives": [
+    {
+      "option": "إظهار القائمة الكاملة في كل شاشة أو إخفاؤها بالكامل",
+      "decision": "شريط جانبي ظاهر في العرض الواسع ووجهات أساسية ظاهرة على الهاتف مع قائمة إضافية.",
+      "reason": "يوازن بين اكتشاف الوجهات ومساحة المتن.",
+      "sourceIds": [
+        "nng-visible-navigation",
+        "salmeron-arabic-nav",
+        "apple-navigation",
+        "apple-tab-bars"
+      ]
+    },
+    {
+      "option": "جعل الرسم العام أو المصفوفة التمثيل الوحيد",
+      "decision": "ثلاثة تمثيلات لثلاث مهمات، مع وزن واحد وشاهد واحد للزوج ضمن النطاق.",
+      "reason": "تختلف أفضلية الرسم باختلاف المهمة والكثافة. الأشرطة تيسّر المقارنة المباشرة.",
+      "sourceIds": [
+        "okoe-network-tasks",
+        "apple-charts"
+      ]
+    },
+    {
+      "option": "تلوين كل مساحة بلون مستقل أو استخدام تدرّج متعدد الألوان للمقادير",
+      "decision": "أسطح متقاربة ولون ثابت للتفاعل، مع ألوان فئوية وتدرّج متسلسل خاصين بالبيانات.",
+      "reason": "تثبت وظيفة اللون من شاشة إلى أخرى، وتظل فروق المقدار مرتبة ومصحوبة بقيم مقروءة.",
+      "sourceIds": [
+        "apple-color",
+        "carbon-data-color",
+        "wcag-color"
+      ]
+    }
+  ],
+  "limits": [
+    "تجارب المشاركين المنشورة تخص المنتجات والمهام والعينات الموضحة بجوار مصادرها. لم تُجرَ دراسة بشرية على هذه الواجهة.",
+    "إرشادات Apple وCarbon ومعيار الويب مراجع تصميم وتنفيذ. القياس المحلي والقبول الفعلي حالتان مستقلتان.",
+    "الهوية الورقية واختيار الدرجة الخضراء قرارات تصميمية للمشروع. تفضيلات اللون المنشورة متنوعة.",
+    "تبقى الآيات والشواهد والأوزان والسجلات التحليلية مستمدة من الملف المرفق."
+  ]
+}
